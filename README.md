@@ -1,10 +1,3 @@
----
-title: caculate
-date: '2013-06-03'
-description: 用go实现的一个计算器
-categories: go
----
-
 用 golang 实现的计算器
 ======================
 
