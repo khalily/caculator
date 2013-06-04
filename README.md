@@ -28,7 +28,7 @@ categories: go
 实现流程
 -------
 
-![caculate.png](/home/wyang/Cloud/documents/khalily.github.com/media/caculate.png "title")
+![caculate.png](https://github.com/khalily/khalily.github.com/blob/master/assets/media/caculate.png)
 	
 
 后缀到前缀的转换
